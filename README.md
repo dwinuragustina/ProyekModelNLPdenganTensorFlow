@@ -1,2 +1,2 @@
 # ProyekModelNLPdenganTensorFlow
-Program Membuat Model NLP dengan TensorFlow
+Program membuat model NLP dengan TensorFlow
